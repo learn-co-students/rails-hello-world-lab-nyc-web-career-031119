@@ -70,3 +70,10 @@ Processing by StaticController#hello_world as HTML
 Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/hello_world" for ::1 at 2019-04-04 15:48:54 -0400
+Processing by StaticController#hello_world as HTML
+  Rendering static/application.html within layouts/application
+  Rendered static/application.html within layouts/application (0.4ms)
+Completed 200 OK in 29ms (Views: 28.3ms | ActiveRecord: 0.0ms)
+
+
